@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a1d24864-4b89-422c-80c8-b7205bab3039)# resumo-do-lab
+# resumo-do-lab
 Repositório criado para descrever o resumo dos conhecimentos adquiridos no lab na DIO.
 
 ## Introdução à Computação em Nuvem
